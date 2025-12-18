@@ -33,6 +33,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
+```verilog
 
 module boolean_function_4var (
     input  wire A,
